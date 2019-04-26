@@ -3,8 +3,9 @@ VAD (Voice Activity Detection) tool
 
 -- Sorry! Currently Japanese only --
 
-VAD 20160115版
- (vad20160115.tar.gz)
+VAD 20190426版
+ (vad20190426.tar.gz)
+ 2019/4/26 修正版（speech_msecの未定義でのエラーが発生する現象への修正版）
 
 配布物の説明<p>
 [0] 概要<br>
